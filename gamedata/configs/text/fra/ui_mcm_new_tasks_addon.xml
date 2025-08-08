@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="Windows-1252" ?>
-<!-- ALSEWARE -->
-<!-- File made by Oyissan using ALSÉWARE Tool - Traduit en français par Thundard -->
+<?xml version="1.0" encoding="Windows-1252"?>
+
 <string_table>
 	<string id="ui_mcm_menu_new_tasks_addon">
-		<text>iTheon - Nouvelles tâches v0.2.1</text>
+		<text>iTheon - Nouvelles tâches</text>
 	</string>
 	<string id="ui_mcm_new_tasks_addon_replayability_title">
 		<text>Rejouabilité des missions</text>
 	</string>
 	<string id="ui_mcm_new_tasks_addon_repl_esc_m_trader_task_new_tasks_addon_dead_night">
-		<text>Nuit Mortelle</text>
+		<text>Nuit Macabre</text>
 	</string>
 	<string id="ui_mcm_new_tasks_addon_repl_mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall">
 		<text>Skyfall</text>
@@ -71,4 +70,17 @@
 	<string id="ui_mcm_new_tasks_addon_auto_assignment_urgent_orders">
 		<text>Ordres Urgents</text>
 	</string>
+	
+<!-- Thundard update 20250808 -->
+	
+<string id="ui_mcm_new_tasks_addon_repl_guid_zan_stalker_locman_task_pilots_pda">
+<text>PDA du Pilote</text>
+</string>
+<string id="ui_mcm_new_tasks_addon_repl_jup_a6_freedom_leader_task_freedom_intel_documents">
+<text>Documents de renseignement de la Liberté</text>
+</string>
+<string id="ui_mcm_new_tasks_addon_repl_merc_pri_grifon_mlr_task_monolith_plans">
+<text>Plans de Monolith</text>
+</string>
+
 </string_table>
